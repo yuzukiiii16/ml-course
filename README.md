@@ -13,12 +13,12 @@
 ## 分組名單：[點此查看](#)
 
 ## 線性迴歸
-找到自己的組別的檔案，並直接編輯該檔案
+請複製範本，更改為自己的班級、姓名
 - 學習單連結：[點此查看](https://drive.google.com/drive/folders/1PflGPr1jr_R8uyNDxeRgujXWFxol9m-k?usp=sharing)
 - 專題計畫書連結：[點此查看](https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing)
 
 ## K-means 分群
-找到自己的組別的檔案，並直接編輯該檔案
+請複製範本，更改為自己的班級、姓名
 - 學習單連結：[點此查看](#)
 - 專題計畫書連結：[點此查看](#)
 
