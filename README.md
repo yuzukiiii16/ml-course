@@ -14,12 +14,12 @@
 
 ## 線性迴歸
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本！！
-- 學習單連結：<a href="https://drive.google.com/drive/folders/1PflGPr1jr_R8uyNDxeRgujXWFxol9m-k?usp=sharing" target="_blank" rel="noopener noreferrer">點此查看</a>
-- 專題計畫書連結：<a href="https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing" target="_blank" rel="noopener noreferrer">點此查看</a>
+- 學習單連結：<a href="https://drive.google.com/drive/folders/1PflGPr1jr_R8uyNDxeRgujXWFxol9m-k?usp=sharing" target="_blank">點此查看</a>
+- 專題計畫書連結：<a href="https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing" target="_blank">點此查看</a>
 
 ## K-means 分群
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本！！
-- 學習單連結：<a href="#" target="_blank" rel="noopener noreferrer">點此查看</a>
-- 專題計畫書連結：<a href="#" target="_blank" rel="noopener noreferrer">點此查看</a>
+- 學習單連結：<a href="#" target="_blank">點此查看</a>
+- 專題計畫書連結：<a href="#" target="_blank">點此查看</a>
 
 
