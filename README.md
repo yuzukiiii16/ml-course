@@ -15,7 +15,6 @@
 
 ## 線性迴歸1
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
-- 學習單連結：[點此查看](https://drive.google.com/drive/folders/1PflGPr1jr_R8uyNDxeRgujXWFxol9m-k?usp=sharing)
 - 專題計畫書連結：[點此查看](https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing)
 - 程式碼繳交連結：[點此查看](https://drive.google.com/drive/folders/1bjnT7a1A_RATO34kvl8ORmtvInNFLU2j?usp=sharing)
 
@@ -25,7 +24,6 @@
 
 ## K-means 分群
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
-- 學習單連結：[點此查看](https://drive.google.com/drive/folders/1KdZB3odm0tSX8Dyso3kTF4T-5hnvq81I?usp=sharing)
 - 專題計畫書連結：[點此查看](https://drive.google.com/drive/folders/1Rr7wemz38v2reyVY6E_8X_qJqwTdc7AB?usp=sharing)
 - 程式碼繳交連結：[點此查看](https://drive.google.com/drive/folders/1K-OSPlqTSmUGCTatTbEB-UDkWLqPXrR2?usp=sharing)
 
