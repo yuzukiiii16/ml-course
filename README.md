@@ -29,8 +29,8 @@
 - 程式碼繳交連結：[點此查看](https://drive.google.com/drive/folders/1K-OSPlqTSmUGCTatTbEB-UDkWLqPXrR2?usp=sharing)
 
 ## K-means 分群2
-VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
+- VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
 - 專題計畫書連結（沿用K-means分群1）：[點此查看](https://drive.google.com/drive/folders/1Rr7wemz38v2reyVY6E_8X_qJqwTdc7AB?usp=sharing)
-- 程式碼繳交連結：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
+- 網頁程式碼與繳交連結：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
 
 
