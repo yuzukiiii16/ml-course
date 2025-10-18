@@ -22,6 +22,7 @@
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
 - 網頁程式碼與繳交連結：[點此查看](https://drive.google.com/drive/folders/1mn8GfofAezMeQz6tYuYnh7xZ6iyWarNd?usp=sharing)
 - 專題計畫書連結（沿用線性迴歸1）：[點此查看](https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing)
+- 參考網頁：[點此查看](https://yuzukiiii16.github.io/mywebsite/ )
 
 ## K-means 分群1
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
@@ -32,5 +33,6 @@
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
 - 專題計畫書連結（沿用K-means分群1）：[點此查看](https://drive.google.com/drive/folders/1Rr7wemz38v2reyVY6E_8X_qJqwTdc7AB?usp=sharing)
 - 網頁程式碼與繳交連結：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
+- 參考網頁：[點此查看](https://yuzukiiii16.github.io/mywebsite/ )
 
 
