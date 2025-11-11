@@ -21,7 +21,7 @@
 ## 線性迴歸-網頁設計實作
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
 - 網頁程式碼：[點此查看](https://drive.google.com/drive/folders/1mn8GfofAezMeQz6tYuYnh7xZ6iyWarNd?usp=sharing)
-- 專題計畫書連結（沿用線性迴歸1）：[點此查看](https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing)
+- 專題計畫書（請沿用線性迴歸1，至google classroom下載）
 - 參考網頁：[點此查看](https://yuzukiiii16.github.io/mywebsite/ )
 - Bootstrap：[點此查看](https://bootstrap5.hexschool.com/docs/5.1/getting-started/introduction/)
 
@@ -31,7 +31,7 @@
 
 ## K-means 分群-網頁設計實作
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
-- 專題計畫書連結（沿用K-means分群1）：[點此查看](https://drive.google.com/drive/folders/1Rr7wemz38v2reyVY6E_8X_qJqwTdc7AB?usp=sharing)
+- 專題計畫書（請沿用K-means分群1，至google classroom下載）
 - 網頁程式碼：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
 - 參考網頁：[點此查看](https://yuzukiiii16.github.io/mywebsite/ )
 
