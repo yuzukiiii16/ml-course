@@ -11,7 +11,6 @@
 
 <br><hr>
 # 課程相關連結：
-## 分組名單：[點此查看](https://docs.google.com/spreadsheets/d/16HP45yqOUY35baPUUhQ6DDAzp7MP7_hWDdAm8cXUugU/edit?usp=sharing)
 
 ## 線性迴歸
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
