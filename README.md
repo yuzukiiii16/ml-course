@@ -31,6 +31,5 @@
 - 專題計畫書（請沿用K-means分群1，至google classroom下載）
 - 網頁程式碼：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
 - Bootstrap：[點此查看](https://bootstrap5.hexschool.com/docs/5.1/getting-started/introduction/)
-- 參考網頁：[點此查看]()
 
 
