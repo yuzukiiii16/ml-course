@@ -14,21 +14,21 @@
 
 ## 線性迴歸
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
-- 專題計畫書連結：[點此查看](https://drive.google.com/drive/folders/10zYJUABZoGcanxJqFnVheGSGoVqPprK3?usp=sharing)
+- 專題計畫書連結：[點此查看]()
 
 ## 線性迴歸-網頁設計實作
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
 - 網頁程式碼：[點此查看](https://drive.google.com/drive/folders/1mn8GfofAezMeQz6tYuYnh7xZ6iyWarNd?usp=sharing)
-- 專題計畫書（請沿用線性迴歸，至google classroom下載）
+- 專題計畫書
 - 參考網頁：[點此查看](https://yuzukiiii16.github.io/airbnbprediction/)
 
 ## K-means 分群
 請複製範本，更改為自己的班級、姓名。！！請勿直接編輯範本，每個人都要寫！！
-- 專題計畫書連結：[點此查看](https://drive.google.com/drive/folders/1Rr7wemz38v2reyVY6E_8X_qJqwTdc7AB?usp=sharing)
+- 專題計畫書連結：[點此查看]()
 
 ## K-means 分群-網頁設計實作
 - VS Code網頁版：[點此查看](https://vscode.dev/?vscode-lang=zh-tw)
-- 專題計畫書（請沿用K-means分群，至google classroom下載）
+- 專題計畫書
 - 網頁程式碼：[點此查看](https://drive.google.com/drive/folders/1y1pP9ErOHdRM2bCBrbmxmweVhRNh62hi?usp=sharing)
 - Bootstrap：[點此查看](https://bootstrap5.hexschool.com/docs/5.1/getting-started/introduction/)
 
